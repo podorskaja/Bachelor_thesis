@@ -1,4 +1,3 @@
-# Lab rotation 
 
 Comparison of algorithms for batch effect removal
 <br/> 
